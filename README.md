@@ -1,2 +1,1 @@
-# Autoclicker
-Autolite Autoclicker by mecel34
+#Ebrogames
